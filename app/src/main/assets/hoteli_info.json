@@ -1,0 +1,76 @@
+﻿{
+        "hoteli": [
+          {
+            "naslov": "Hotel Palace",
+            "adresaA": "Trg J.J. Strossmayera 10, 10000 Zagreb",
+            "adresaB": "palace@palace.hr",
+	    "opis": "Palace Hotel Zagreb, smješten u centru grada u palaci podignutoj neposredno uz stari gradski park, s radom je zapoceo još 1907. godine kao prvi profesionalno organizirani hotel u Zagrebu.Hotel danas objedinjuje udobnost suvremenog nacina stanovanja s toplim retro chic ugodajem kojeg stvaraju njegov stilski namještaj i secesijski interijer.Suvremeno opremljene kongresne dvorane Palace Hotela Zagreb idealne su za održavanje sastanaka, seminara i prezentacija, a zbog svoje intimne atmosfere hotel je poznat po organizaciji malih, butik vjencanja.Posluga u sobu opremljenu klima uredajem, satelitskom televizijom i minibarom, cuvanje djece, bežicni internet i kemijska cistiona samo su neke od usluga i pogodnosti koje boravak u Palace Hotelu Zagreb cine još ugodnijim. Zainteresiranost za kulturu i umjetnost grada Zagreba finalizirat ce naša concierge usluga. Osoblje ce rado na sebe preuzeti organizaciju dodatnih sadržaja, rezervaciju ulaznica i slicne poslove kako bi gostu na raspolaganju ostalo što više slobodnog vremena. Cuvani parking s valet uslugom i neprestanim video nadzorom gostima omogucuje parkiranje neposredno ispred hotela, a do brojnih muzeja i kazališta te diplomatskih predstavništava brzo se stiže laganom šetnjom starim Zagrebackim parkovima i trgovima. Palace Hotel Zagreb je idealan odabir za goste koji u Zagreb dolaze poslovno, turisticki ili u sklopu sve popularnijeg makeover turizma, a potonjima osigurava posebno povoljne cijene smještaja.",
+	    "stars":"4"
+          },
+          {
+            "naslov": "Zovko hoteli",
+            "adresaA": "SLAVONSKA AVENIJA 59, 10360 SESVETE",
+            "adresaB": " hotel@zovko.com",
+	    "opis": "Hoteli Zovko vec više od jedanaest godina mjesto su gdje pocinje dobra strana života. U našim hotelima nudimo zavidnu razinu usluge koju možete ocekivati od renomiranog hotela s 4 zvjezdice. I sve što poželite kod nas cete s lakocom moci realizirati. Svojim gostima hoteli Zovko nude ugodan boravak u elegantno uredenim sobama opremljenim funkcionalnom kupaonicom, klima uredajem, mini barom, izravnom telefonskom linijom, interaktivnim TV sustavom, sigurnosnim sefom, restoranom s vrhunskom gastronomskom ponudom te cuvanom garažom i velikim parkiralištem za goste. No, smještaj je samo mali dio price. U hotelima Zovko možete obilježiti sve prijelomne dogadaje vašeg života: od rodenja i krštenja djeteta do vjencanja kojeg planirate vec mjesecima. Dvorana kapaciteta do 550 vaših uzvanika, bez obzira radi li se o velikom obiteljskom okupljanju ili organiziranju poslovnih sastanaka i seminara, prigodnih ili poslovnih domjenaka. Cak 600 m2 dvoranskog prostora stoji vam na usluzi za sve vaše press konferencije, prezentacije novih usluga i proizvoda, poslovne i edukativne tecajeve... Naše ljubazno osoblje uvijek ce vam biti na raspolaganju svojom profesionalnom uslugom. I budite bez brige, hladni profesionalizam kod nas je zamijenjen toplom dobrodošlicom te željom da bolje upoznamo gosta. Vec nakon prvog upoznavanja, jamcimo vam, vrlo brzo cemo nauciti i koliko šlaga u kavi volite.",
+"stars":"4"
+          },
+          {
+            "naslov": "Panorama Zagreb hotel",
+            "adresaA": "Trg Krešimira Ćosića 9, 10000 Zagreb ",
+            "adresaB": "hotel@panorama-zagreb.com",
+	    "opis": "HUP-ZAGREB d.d. za hotelijerstvo, ugostiteljstvo i turizam najstarija je hotelijerska kompanija u Zagrebu, koja uspješno posluje preko šezdeset pet godina te se svojom visokom kvalitetom usluge, raznovrsnim proizvodima i kontinuiranim pracenjem, ali i postavljanjem trendova pozicionirala kao tržišni lider, ciji su hoteli središte najvažnijih gospodarskih, politickih i sportskih dogadanja Zagreba i Hrvatske. Bez obzira dolazite li u Zagreb poslom ili se želite odmoriti, dolazite li zakljuciti posao ili razgledati zagrebacke atrakcije, Panorama Zagreb Hotel Vam stoji na raspolaganju udobnim i funkcionalno opremljenim sobama, restoranom Šestine s izvrsnom domacom kuhinjom, višenamjenskim dvoranama za sve vrste dogadanja te iskusnim i profesionalnim osobljem.",
+"stars":"4"
+          },
+          {
+            "naslov": "Hotel Antunović Zagreb",
+            "adresaA": "Zagrebačka Avenija 100 A, 10000 Zagreb",
+            "adresaB": "rezervacije@hotelantunovic.com",
+	    "opis": "Hotel Antunovic Zagreb 4* je otvoren 01.09.2006. godine i najmladi je hotel u grupaciji. Antunovic TA d.o.o. sastoji se od ­4 hotela u 4 ce­ntra An­tunovic u 4 mjesta: Brcko i Orašje u ­B­osni i Hercegovini, te Sesvetski Kraljevac i Zagreb u Hrvatskoj. U sklopu svakog centra se nalaze i benzinske postaje kao i dodatna benzinska postaja u Bosanskom Šamcu. Vlasnik Antunovic TA d.o.o. i predsjednik uprave je gospodin Tomislav Antunovic ciji poduzetnicki maraton traje vec 4 desetljeca. Sve je krenulo još 1968. s malom tvrtkom za gradevinske djelatnosti, otvaranjem prve privatne benzinske postaje 1988. u Brckom, do osnivanja tvrtke Antunovic TA d.o.o. 1992. u Zagrebu. Sudeci po nemirnom poduzetnickom duhu te jakoj obiteljskoj potpori, za ocekivati je još puno pozitivnih poslovnih rezultata.",
+"stars":"4"
+          },
+          {
+            "naslov": "Hotel Croatia",
+            "adresaA": "Vinogradska cesta 20, 10000 Zagreb",
+            "adresaB": "info@hotel-croatia.com.hr ",
+	    "opis": "Zadovoljstvo nam je zaželjeti Vam dobrodošlicu u Hotel Croatia!
+Bilo da putujete u Zagreb poslovno ili rekreativno pravi je odabir mjesta za odmor u centru grada Zagreba!. Naše profesionalno i prijateljski raspoloženo osoblje zaduženo je da Vaš boravak u Hotelu Croatia bude udoban i ugodan. S lokacijom u samom centru grada, hotel Vam pruža izvanrednu uslugu, odnosno kvalitetan odmor u mirnoj i opuštenoj atmosferi. Veselimo se ugostiti Vas, prvi put, ali i na svakom Vašem buducem putovanju.",
+"stars":"3"
+          },
+          {
+            "naslov": "Hotel Jadran",
+            "adresaA": "Vlaška 50, 10000 Zagreb",
+            "adresaB": "jadran@hup-zagreb.hr",
+	    "opis": "Smješten u samom srcu Zagreba, hotel Jadran ce biti Vaša polazišna tocka mnoštva paketa za razgled grada, skrojenih tocno po Vašoj mjeri. Bit ce nam zadovoljstvo predstaviti Vam pakete koje smo osmislili, koji ce Vam pomoci da otkrijete Zagreb i okolicu na posve nov nacin. Otkrijte centar grada, planinu Medvednicu, popijte kavu uz zagrebacko more, Jarun ili posjetite Plitvicka jezera - jednostavno nam se obratite i bit ce nam zadovoljstvo rezervirati za Vas vodene obilaske grada i okolice.",
+"stars":"3"
+          },
+          {
+            "naslov": "Hotel Aristos",
+            "adresaA": "Cebini 33, Buzin, 10010 Zagreb",
+            "adresaB": "aristos@hotel-aristos.hr",
+	    "opis": "Hoteli u Zagrebu – vaš pravi izbor je Hotel Aristos 4 koji pruža miran i ugodan smještaj te je udaljen svega nekoliko minuta vožnje od zracne luke Zagreb, centra grada, jezera Bundek uz besplatan parking i garažu hotela. Odaberite vrhunski odmor u udobnim sobama, opustite tijelo i duh u Wellness & Spa Aristos centru, prepustite se bogatim gastronomskim doživljajima u našem restoranu Tiara i uživajte u jednom od naših barova te zelenom okruženju ljetne terase. Profesionalnost, gostoljubivost i visoka razina usluge omogucit ce da Vaš boravak, kao i svaka organizacija poslovnih i svecanih dogadanja u hotelu Aristos bude poseban doživljaj te neka Hotel Aristos bude vaše mjesto opuštanja, poslovnih uspjeha i susreta, ugodnih druženja i svecanih trenutaka.",
+"stars":"4"
+          },
+          {
+            "naslov": "Hotel Sheraton Zagreb",
+            "adresaA": "Kneza Borne 2, Zagreb 10000",
+            "adresaB": "sheraton.zagreb@sheratonzagreb.com",
+	    "opis": "Smješten u samom središtu grada Zagreba, Sheraton Zagreb Hotel u neposrednoj je blizini glavnih znamenitosti, kazališta, muzeja, galerija, parkova i vrtova, koncertnih dvorana, te poslovnog dijela grada, državne uprave i trgovina. Zbog izuzetno dobrog položaja i povezanosti, Sheraton Zagreb Hotel je sasvim sigurno najbolji izbor za poslovne ljude kao i za sve one koji dolaze na odmor. Naših prostranih i komfornih 306 soba i apartmana pružaju ugodnu i opuštajucu atmosferu i pratece sadržaje, kao i besplatan Wi-Fi Internet. Nadite vremena za sebe u našem zatvorenom bazenu i Wellness&Spa centru. Održite sastanak u našim prostorima i dogovorite novi posao s partnerima. Naše elegantne i multifunkcionalne dvorane idealno su mjesto za Vaše konferencije, sastanke ili dogadanja.",
+"stars":"5"
+          },
+          {
+            "naslov": "Hotel International Zagreb",
+            "adresaA": "Miramarska 24, 10000 Zagreb ",
+            "adresaB": "hotel@hotel-international.hr",
+	    "opis": "Prostrane hotelske sobe rasporedene u tri kategorije i luksuzni smještaj u apartmanima hotela International uciniti ce Vaš boravak u Zagrebu opuštajucim i ugodnim. Svi koji požele bolje upoznati Zagreb, u neposrednoj blizini hotela naci ce brojne gradske atrakcije, muzeje i ostale kulturne znamenitosti. Osim hotelskog smještaja, hotel International u Zagrebu nudi svojim gostima opuštanje u lounge baru ili upoznavanje mediteranskih i kontinentalnih specijaliteta Hrvatske u restoranu hotela.
+Provjerite zašto je moto hotela International “Osjecajte se kao kod kuce...",
+"stars":"4"
+          },
+          {
+            "naslov": "Hotel Central Zagreb",
+            "adresaA": "Branimirova 3,10000 ZAGREB",
+            "adresaB": "info@hotel-central.hr",
+	    "opis": "Nedaleko od hotela, na samo 10 minuta hoda, šecuci jednim od najljepših zagrebackih parkova, parkom Zrinjevac, naci cete se na glavnome gradskom trgu i u povijesnoj jezgri grada. Nadohvat su popularni kafici, poznati muzeji, galerije, trgovine, tržnica Dolac i znamenitosti srednjovjekovnog grada. Hotel je prilagoden smještaju poslovnih ljudi kao i za boravak turista na proputovanju kroz grad Zagreb. Gostima je na raspolaganju 76 komforno uredenih soba od kojih je 38 jednokrevetnih, 29 dvokrevetnih, 5 trokrevetnih te 4 obiteljske sobe. U ugodnoj atmosferi blagovaonice poslužuje se buffet-dorucak od 6.00 do 10.00 sati kako bismo se u potpunosti prilagodili Vašim obvezama i planovima. Na atraktivnoj lokaciji s pogledom na živopisne zagrebacke ulice, na raspolaganju su Vam dvije dvorane za organizaciju konferencija i sastanke do 70 sudionika, opremljene s LCD projektorom, flip chartom i razglasom. Za svoje goste osigurali smo parking u podzemnoj garaži Importanne centra (etaža -3), 100m od hotela. Cijena za hotelske goste iznosi 55 kn (7,5 €) po danu. Parkiranje se placa na recepciji hotela uz predocenje parkirne karte i vrijedi do odjave iz hotela. Parkirno mjesto nije potrebno rezervirati. Za Vaš ugodan boravak ili organizaciju dogadanja, pobrinut ce se naše gostoljubivo hotelsko osoblje.",
+"stars":"3"
+          }
+        ]
+    }

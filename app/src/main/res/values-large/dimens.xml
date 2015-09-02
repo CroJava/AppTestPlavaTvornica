@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16sp</dimen>
+    <dimen name="activity_vertical_margin">16sp</dimen>
+
+    <dimen name="size8">14sp</dimen>
+    <dimen name="size10">16sp</dimen>
+    <dimen name="size11">17sp</dimen>
+    <dimen name="size12">18sp</dimen>
+    <dimen name="size14">20sp</dimen>
+    <dimen name="size16">22sp</dimen>
+    <dimen name="size17">23sp</dimen>
+    <dimen name="size18">24sp</dimen>
+    <dimen name="size19">25sp</dimen>
+    <dimen name="size20">26sp</dimen>
+    <dimen name="size22">28sp</dimen>
+    <dimen name="size24">30sp</dimen>
+    <dimen name="SplashScreenLogoHeight">150dp</dimen>
+    <dimen name="HomeScreenSearchButtonWidth">240dp</dimen>
+    <dimen name="HomeScreenSearchButtonHeight">70dp</dimen>
+    <dimen name="HomeScreenTextOverlay">120dp</dimen>
+    <dimen name="newsImageTopHeight">420dp</dimen>
+    <dimen name="newsGalleryHeight">500dp</dimen>
+    <dimen name="DrawerWidth">600dp</dimen>
+    <dimen name="CalendarListHeader">210dp</dimen>
+    <dimen name="BoxOverlayHeight">146dp</dimen>
+
+</resources>

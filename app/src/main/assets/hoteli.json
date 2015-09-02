@@ -1,0 +1,54 @@
+{
+        "hoteli": [
+          {
+            "naslov": "Hotel Palace",
+            "adresaA": "Trg J.J. Strossmayera 10, 10000 Zagreb",
+            "adresaB": "palace@palace.hr"
+          },
+          {
+            "naslov": "Zovko hoteli",
+            "adresaA": "SLAVONSKA AVENIJA 59, 10360 SESVETE",
+            "adresaB": " hotel@zovko.com"
+          },
+          {
+            "naslov": "Panorama Zagreb hotel",
+            "adresaA": "Trg Krešimira Ćosića 9, 10000 Zagreb ",
+            "adresaB": "hotel@panorama-zagreb.com"
+          },
+          {
+            "naslov": "Hotel Antunović Zagreb",
+            "adresaA": "Zagrebačka Avenija 100 A, 10000 Zagreb",
+            "adresaB": "rezervacije@hotelantunovic.com"
+          },
+          {
+            "naslov": "Hotel Croatia",
+            "adresaA": "Vinogradska cesta 20, 10000 Zagreb",
+            "adresaB": "info@hotel-croatia.com.hr "
+          },
+          {
+            "naslov": "Hotel Jadran",
+            "adresaA": "Vlaška 50, 10000 Zagreb",
+            "adresaB": "jadran@hup-zagreb.hr"
+          },
+          {
+            "naslov": "Hotel Aristos",
+            "adresaA": "Cebini 33, Buzin, 10010 Zagreb",
+            "adresaB": "aristos@hotel-aristos.hr"
+          },
+          {
+            "naslov": "Hotel Sheraton Zagreb",
+            "adresaA": "Kneza Borne 2, Zagreb 10000",
+            "adresaB": "sheraton.zagreb@sheratonzagreb.com"
+          },
+          {
+            "naslov": "Hotel International Zagreb",
+            "adresaA": "Miramarska 24, 10000 Zagreb ",
+            "adresaB": "hotel@hotel-international.hr"
+          },
+          {
+            "naslov": "Hotel Central Zagreb",
+            "adresaA": "Branimirova 3,10000 ZAGREB",
+            "adresaB": "info@hotel-central.hr"
+          }
+        ]
+    }

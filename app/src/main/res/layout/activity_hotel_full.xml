@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.buby.apptestplavatvornica.appHelpers.ParallaxScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/scrollView"
+    android:background="#fff1f1f1">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingBottom="15dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/newsImageTopHeight"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:id="@+id/fullHotelImage" />
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:baselineAligned="false"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp">
+
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/starsNumber"
+                    android:progressTint="#00000000"
+                    android:secondaryProgressTint="#FFB8173B"
+                    android:progressBackgroundTint="#c0c0c0" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="0dip"
+            android:layout_weight="3">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/fullHotelNaziv"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/size22"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:textStyle="bold"
+                android:textColor="#ff6d6d6d" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/adresaA" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/adresaB" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/fullHotelOpis"
+                android:layout_gravity="center_vertical|right"
+                android:paddingTop="5dp"
+                android:textSize="@dimen/size14"
+                android:paddingBottom="5dp" />
+
+
+            <android.support.v4.view.ViewPager
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/newsGalleryHeight"
+                android:id="@+id/full_news_pager"
+                android:background="@drawable/clouds">
+                </android.support.v4.view.ViewPager>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</com.example.buby.apptestplavatvornica.appHelpers.ParallaxScrollView>
